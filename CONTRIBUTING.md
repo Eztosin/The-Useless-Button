@@ -80,6 +80,7 @@ While this is a silly project, we still care about quality:
 - Verify responsive design on different screen sizes
 - Check accessibility with screen readers
 - Test performance with many spawned elements
+- Confirm your project shows the 'Built with Bolt.new' badge
 
 ## 📦 Pull Request Process
 
