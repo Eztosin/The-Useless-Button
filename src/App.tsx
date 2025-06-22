@@ -327,8 +327,8 @@ function App() {
         </a>
       </div>
 
-      {/* Chaos Controls */}
-      <div className="absolute top-4 left-4 z-40 flex flex-col gap-2">
+      {/* Chaos Controls - Moved down to avoid blocking title */}
+      <div className="absolute top-20 left-4 z-40 flex flex-col gap-2">
         <button
           onClick={enableHellMode}
           className="px-4 py-2 bg-red-600 text-white rounded-lg font-bold hover:bg-red-700 transition-colors"
